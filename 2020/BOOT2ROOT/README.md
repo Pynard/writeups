@@ -1,17 +1,15 @@
 # INFOS
-https://boot2root2020.tech/
 [b00t2root](https://boot2root2020.tech/)
 🗓️ dim, 06 déc. 2020, 09:30 UTC — lun, 07 déc. 2020, 09:30 UTC
+
 **Notre Team** :
 ```
 nom = les_petits_pedestres
 ```
-**FIN DU CTF DANS**
-**FINI !!**
 
-![unknown.png](../attachements/infos/unknown.png "unknown.png")
+![unknown.png](attachements/infos/unknown.png "unknown.png")
 Sur 361 teams
-<:macron:784920050544017429>
+
 
 ##  WRITE UPS
 
