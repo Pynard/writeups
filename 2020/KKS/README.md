@@ -1,6 +1,9 @@
 # INFOS
+
 https://open.kksctf.ru/
+
 🗓️ Du sam, déc. 12, 09:00 au dim, déc. 13, 09:00 UTC
+
 Notre Team :
 ```Pynard```
 Prizes :
@@ -10,7 +13,8 @@ Prizes :
 4-10th places: pack of #kksctf stickers
 ```
 **Classement final :   27/338**
-![unknown.png](../attachements/infos/unknown.png "unknown.png")
+
+![unknown.png](attachements/infos/unknown.png "unknown.png")
 
 ##  WRITE UPS
 
