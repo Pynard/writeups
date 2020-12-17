@@ -1,5 +1,7 @@
 # INFOS
+
 [b00t2root](https://boot2root2020.tech/)
+
 🗓️ dim, 06 déc. 2020, 09:30 UTC — lun, 07 déc. 2020, 09:30 UTC
 
 **Notre Team** :
