@@ -1,6 +1,7 @@
 # SECRET_NETWORK_1
 J'ai trouvé cette conversation tcp non chiffrée dans le pcap :
 ![unknown.png](../attachements/secret_network_1/unknown.png "unknown.png")
+```
 Trame 8310
 GET /inventational.txt HTTP/1.1
 Host: 192.168.122.140:8000
@@ -60,3 +61,4 @@ But it doesn't matter
 It come from our secret network
 I put it in our file server
 Ok, i will check it
+```
