@@ -25,8 +25,10 @@ Dans le code on a ça :
     #print(packet)
     s.send(packet)
 ```
+
 Alors tu rentres **vuln** et là le flag pop -_-
+
 ```b00t2root{python2_vuln}```
+
 flag : `b00t2root{python2_vuln}`
-GG ! Enfin un qui ne fait pas partie de ceux qui ne sont rien
-<:macron:784920050544017429>
+
